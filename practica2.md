@@ -1,6 +1,6 @@
 # Archivo con formato Markdown
 
-## Subtitulo
+## Subtítulo
 
 ### Por Adrián Salgado
 
